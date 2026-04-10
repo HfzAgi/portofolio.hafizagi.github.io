@@ -205,7 +205,6 @@ nav {
 }
 .project-card h3 { font-weight: 500; font-size: 15px; margin-bottom: 8px; }
 .project-card p { font-size: 13px; color: var(--muted); flex: 1; margin-bottom: 16px; line-height: 1.6; }
-.project-footer { display: flex; justify-content: space-between; align-items: center; }
 .project-tags { display: flex; gap: 5px; flex-wrap: wrap; }
 .ptag {
   font-size: 11px;
